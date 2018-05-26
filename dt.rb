@@ -6,6 +6,7 @@ class Dt < Formula
   homepage "https://github.com/ebc-2in2crc/homebrew-dt"
   url "https://github.com/ebc-2in2crc/dt/releases/download/v0.9.0/dt_darwin_amd64.zip"
   sha256 "62eef190c341c6e26d0d2c45ddf751992670d3de8d6ccd65649ccb69f8d1d117"
+  version "0.9.0"
 
   def install
     bin.install "dt"
